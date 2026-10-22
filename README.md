@@ -113,29 +113,42 @@ timeline
 
 ---
 
-## 🛠️ Toolkit
+## 🛠️ Tech stack
 
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'cScale0':'#0B132B','cScale1':'#13304A','cScale2':'#1B4D3E','cScale3':'#23684C','cScale4':'#2E8B57','cScale5':'#3FA36B','cScaleLabel0':'#ffffff','cScaleLabel1':'#ffffff','cScaleLabel2':'#ffffff','cScaleLabel3':'#ffffff','cScaleLabel4':'#ffffff','cScaleLabel5':'#ffffff','primaryColor':'#0B132B','primaryTextColor':'#ffffff','lineColor':'#2E8B57'}}}%%
-mindmap
-  root((Alpesh))
-    Payments
-      NEFT and ACH
-      Fedwire, RTP, FedNow
-      Stripe and USDC
-    Product
-      Specs
-      Data models
-      Rollout
-    Data
-      SQL and Postgres
-      Tableau, Power BI
-      Python and R
-    Build
-      Java and Python
-      React and Node
-      Solidity
-```
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://img.shields.io/badge/Python-1B4D3E?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Java-1B4D3E?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/JavaScript-1B4D3E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/SQL-1B4D3E?style=for-the-badge" alt="SQL"> <img src="https://img.shields.io/badge/R-1B4D3E?style=for-the-badge&logo=r&logoColor=white" alt="R"> <img src="https://img.shields.io/badge/Solidity-1B4D3E?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"> <img src="https://img.shields.io/badge/HTML-1B4D3E?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/CSS-1B4D3E?style=for-the-badge&logo=css&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/Bash-1B4D3E?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"></td>
+  </tr>
+  <tr>
+    <td><b>Backend & APIs</b></td>
+    <td><img src="https://img.shields.io/badge/FastAPI-1B4D3E?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Spring-1B4D3E?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"> <img src="https://img.shields.io/badge/Node.js-1B4D3E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/REST%20APIs-1B4D3E?style=for-the-badge" alt="REST APIs"> <img src="https://img.shields.io/badge/Webhooks-1B4D3E?style=for-the-badge" alt="Webhooks"> <img src="https://img.shields.io/badge/MCP-1B4D3E?style=for-the-badge" alt="MCP"> <img src="https://img.shields.io/badge/x402-1B4D3E?style=for-the-badge" alt="x402"> <img src="https://img.shields.io/badge/pytest-1B4D3E?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest"></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://img.shields.io/badge/React-1B4D3E?style=for-the-badge&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/Vite-1B4D3E?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"> <img src="https://img.shields.io/badge/Web3.js-1B4D3E?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js"></td>
+  </tr>
+  <tr>
+    <td><b>Data & analytics</b></td>
+    <td><img src="https://img.shields.io/badge/PostgreSQL-1B4D3E?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MySQL-1B4D3E?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Pandas-1B4D3E?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/NumPy-1B4D3E?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/SciPy-1B4D3E?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"> <img src="https://img.shields.io/badge/Jupyter-1B4D3E?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"> <img src="https://img.shields.io/badge/Tableau-1B4D3E?style=for-the-badge" alt="Tableau"> <img src="https://img.shields.io/badge/Power%20BI-1B4D3E?style=for-the-badge" alt="Power BI"> <img src="https://img.shields.io/badge/dplyr-1B4D3E?style=for-the-badge" alt="dplyr"></td>
+  </tr>
+  <tr>
+    <td><b>Payments</b></td>
+    <td><img src="https://img.shields.io/badge/NEFT-1B4D3E?style=for-the-badge" alt="NEFT"> <img src="https://img.shields.io/badge/ACH%20%2F%20Fedwire%20%2F%20RTP%20%2F%20FedNow-1B4D3E?style=for-the-badge" alt="ACH / Fedwire / RTP / FedNow"> <img src="https://img.shields.io/badge/Stripe-1B4D3E?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"> <img src="https://img.shields.io/badge/QuickBooks-1B4D3E?style=for-the-badge&logo=quickbooks&logoColor=white" alt="QuickBooks"> <img src="https://img.shields.io/badge/USDC-1B4D3E?style=for-the-badge" alt="USDC"></td>
+  </tr>
+  <tr>
+    <td><b>Web3</b></td>
+    <td><img src="https://img.shields.io/badge/Ethereum-1B4D3E?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"> <img src="https://img.shields.io/badge/Polygon-1B4D3E?style=for-the-badge&logo=polygon&logoColor=white" alt="Polygon"> <img src="https://img.shields.io/badge/Base-1B4D3E?style=for-the-badge" alt="Base"> <img src="https://img.shields.io/badge/Hardhat-1B4D3E?style=for-the-badge" alt="Hardhat"> <img src="https://img.shields.io/badge/IPFS-1B4D3E?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS"></td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td><img src="https://img.shields.io/badge/Docker-1B4D3E?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-1B4D3E?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"> <img src="https://img.shields.io/badge/Fly.io-1B4D3E?style=for-the-badge&logo=flydotio&logoColor=white" alt="Fly.io"> <img src="https://img.shields.io/badge/Oracle%20Cloud-1B4D3E?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud"> <img src="https://img.shields.io/badge/Azure-1B4D3E?style=for-the-badge" alt="Azure"> <img src="https://img.shields.io/badge/Render-1B4D3E?style=for-the-badge&logo=render&logoColor=white" alt="Render"> <img src="https://img.shields.io/badge/Git-1B4D3E?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-1B4D3E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></td>
+  </tr>
+  <tr>
+    <td><b>Integrations</b></td>
+    <td><img src="https://img.shields.io/badge/SSO-1B4D3E?style=for-the-badge" alt="SSO"> <img src="https://img.shields.io/badge/Slack-1B4D3E?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"> <img src="https://img.shields.io/badge/WebCheckout-1B4D3E?style=for-the-badge" alt="WebCheckout"> <img src="https://img.shields.io/badge/FFmpeg-1B4D3E?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg"></td>
+  </tr>
+</table>
 
 **Certifications:** Oracle Cloud Infrastructure (3×, 2024) · Harvard Blockchain Essentials (2023)
 
