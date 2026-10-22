@@ -100,21 +100,15 @@ I've built payment APIs for HDFC Bank at Oracle, led product for NYU's MakerSpac
 ## 📈 Timeline
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'cScale0':'#0B132B','cScale1':'#13304A','cScale2':'#1B4D3E','cScale3':'#23684C','cScale4':'#2E8B57','cScale5':'#3FA36B','cScaleLabel0':'#ffffff','cScaleLabel1':'#ffffff','cScaleLabel2':'#ffffff','cScaleLabel3':'#ffffff','cScaleLabel4':'#ffffff','cScaleLabel5':'#ffffff','primaryColor':'#0B132B','primaryTextColor':'#ffffff','lineColor':'#2E8B57'}}}%%
 timeline
     title From payments code to payments product
-    2019 : B.Tech Computer Engineering
-         : NMIMS Mumbai
-    2022 : Blockchain Developer
-         : MaMo Tech, TuneChain
-    2023 : Associate Consultant
-         : Oracle, HDFC Bank payments
-    2024 : Management of Technology
-         : NYU Tandon, START Grant
-    2025 : Product Lead
-         : NYU MakerSpace
-    2026 : Tech Lead, The Central Bulletin
-         : M.S. Business Analytics, Mercy
-         : SettleQuote
+    2019 : B.Tech, NMIMS Mumbai
+    2022 : TuneChain at MaMo Tech
+    2023 : HDFC Bank payments at Oracle
+    2024 : NYU Tandon, START Grant
+    2025 : Product Lead, NYU MakerSpace
+    2026 : Tech Lead, TCB · SettleQuote
 ```
 
 ---
@@ -122,35 +116,25 @@ timeline
 ## 🛠️ Toolkit
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'cScale0':'#0B132B','cScale1':'#13304A','cScale2':'#1B4D3E','cScale3':'#23684C','cScale4':'#2E8B57','cScale5':'#3FA36B','cScaleLabel0':'#ffffff','cScaleLabel1':'#ffffff','cScaleLabel2':'#ffffff','cScaleLabel3':'#ffffff','cScaleLabel4':'#ffffff','cScaleLabel5':'#ffffff','primaryColor':'#0B132B','primaryTextColor':'#ffffff','lineColor':'#2E8B57'}}}%%
 mindmap
   root((Alpesh))
     Payments
-      NEFT and salary disbursement
-      ACH, Fedwire, RTP, FedNow
-      Stripe and QuickBooks
-      USDC and x402
+      NEFT and ACH
+      Fedwire, RTP, FedNow
+      Stripe and USDC
     Product
-      Requirements and specs
-      Data modeling
-      UAT and rollout
-      Stakeholder management
+      Specs
+      Data models
+      Rollout
     Data
-      SQL and PostgreSQL
-      MySQL
-      Pandas and NumPy
-      Tableau and Power BI
-      R
-    Engineering
-      Java and Spring
-      Python and FastAPI
-      JavaScript, React, Node.js
-      REST APIs and webhooks
-      Docker and Kubernetes
-    Web3
+      SQL and Postgres
+      Tableau, Power BI
+      Python and R
+    Build
+      Java and Python
+      React and Node
       Solidity
-      Hardhat
-      IPFS
-      Polygon and Ethereum
 ```
 
 **Certifications:** Oracle Cloud Infrastructure (3×, 2024) · Harvard Blockchain Essentials (2023)
