@@ -23,7 +23,7 @@
 
 </div>
 
-I've built payment APIs for HDFC Bank at Oracle, led product for NYU's MakerSpace as it moved five legacy systems into one, and led a three-person team that shipped money and crypto transfers inside Telegram. Now I'm building **SettleQuote**, an API that tells AI agents which US payment rail can still meet a deadline, and finishing an **M.S. in Business Analytics** at Mercy University (Feb 2027).
+I've built payment APIs for HDFC Bank at Oracle, moved five legacy systems into one as a graduate assistant at NYU's MakerSpace, and led a three-person team that shipped money and crypto transfers inside Telegram. Now I'm building **SettleQuote**, an API that tells AI agents which US payment rail can still meet a deadline, and finishing an **M.S. in Business Analytics** at Mercy University (Feb 2027).
 
 **Looking for:** Product Manager, Product Analyst and Forward Deployed Engineer roles in New York, starting March 2027.
 
@@ -59,7 +59,7 @@ I've built payment APIs for HDFC Bank at Oracle, led product for NYU's MakerSpac
 
 ---
 
-### NYU MakerSpace · Product Lead
+### NYU MakerSpace · Graduate Assistant
 **Jan 2025 – Jan 2026 · Brooklyn**
 
 - Moved **5 legacy systems** (spreadsheets, Google Forms, a billing tool, a waiver PDF archive and an inventory sheet) into **WebCheckout**
@@ -107,7 +107,7 @@ timeline
     2022 : TuneChain at MaMo Tech
     2023 : HDFC Bank payments at Oracle
     2024 : NYU Tandon, START Grant
-    2025 : Product Lead, NYU MakerSpace
+    2025 : Graduate Assistant, NYU MakerSpace
     2026 : Tech Lead, TCB · SettleQuote
 ```
 
@@ -126,7 +126,7 @@ timeline
   </tr>
   <tr>
     <td><b>Frontend</b></td>
-    <td><img src="https://img.shields.io/badge/React-1B4D3E?style=for-the-badge&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/Vite-1B4D3E?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"> <img src="https://img.shields.io/badge/Web3.js-1B4D3E?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js"></td>
+    <td><img src="https://img.shields.io/badge/React-1B4D3E?style=for-the-badge&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/Web3.js-1B4D3E?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js"></td>
   </tr>
   <tr>
     <td><b>Data & analytics</b></td>
