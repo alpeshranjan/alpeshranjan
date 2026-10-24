@@ -17,7 +17,7 @@
 
 <div align="center">
 
-**Payment systems · Product management · Data**
+**Payment systems · Product management · Blockchain**
 
 *I take the rules money has to follow and turn them into products that ship.*
 
