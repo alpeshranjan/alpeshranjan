@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="860" height="330" viewBox="0 0 860 330" role="img" aria-label="Terminal: settlequote picks Fedwire as the cheapest rail that meets a Friday 7 PM deadline; whoami prints Alpesh Ranjan, payments infrastructure and AI agents, ex-Oracle; status: open to Forward Deployed Engineer and Product roles in NYC from March 2027.">
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; fill: #e6edf3; white-space: pre; }
+    .p { fill: #3fb950; } .d { fill: #8b949e; } .r { fill: #f85149; } .g { fill: #3fb950; font-weight: 700; }
+    .y { fill: #d29922; } .b { fill: #58a6ff; font-weight: 700; } .w { font-weight: 700; }
+    .cover { fill: #0d1117; }
+    .t1 { animation: type 1.3s steps(46) 0.4s both; }
+    .t2 { animation: type 0.45s steps(7) 3.6s both; }
+    .t3 { animation: type 0.5s steps(10) 5.0s both; }
+    .o1 { animation: show 0.01s 1.9s both; } .o2 { animation: show 0.01s 2.25s both; }
+    .o3 { animation: show 0.01s 2.6s both; }  .o4 { animation: show 0.01s 4.25s both; }
+    .o5 { animation: show 0.01s 5.75s both; } .o6 { animation: show 0.01s 6.1s both; }
+    .cur { animation: blink 1s steps(1) 6.1s infinite both; }
+    @keyframes type { from { transform: translateX(0); } to { transform: translateX(470px); } }
+    @keyframes show { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0; } }
+  </style>
+
+  <rect x="0" y="0" width="860" height="330" rx="10" fill="#0d1117"/>
+  <circle cx="22" cy="20" r="6" fill="#ff5f57"/><circle cx="42" cy="20" r="6" fill="#febc2e"/><circle cx="62" cy="20" r="6" fill="#28c840"/>
+  <text x="430" y="25" text-anchor="middle" class="d" style="font-size:13px">alpesh@nyc: ~</text>
+
+  <!-- command 1 -->
+  <text x="24" y="68"><tspan class="p">$</tspan> settlequote --amount 12000 --by "Fri 7:00 PM"</text>
+  <rect class="cover t1" x="38" y="52" width="470" height="22"/>
+
+  <g class="o1"><text y="96"><tspan x="40">ACH</tspan><tspan x="180" class="d">lands Mon 9:00 AM</tspan><tspan x="370"><tspan class="r">✗ misses</tspan></tspan></text></g>
+  <g class="o2"><text y="120"><tspan x="40">Same-day ACH</tspan><tspan x="180" class="d">lands Mon 1:30 PM</tspan><tspan x="370"><tspan class="r">✗ misses</tspan></tspan></text></g>
+  <g class="o3"><text y="144"><tspan x="40">Fedwire</tspan><tspan x="180" class="d">lands Fri 4:50 PM</tspan><tspan x="370"><tspan class="g">✓ $0.97</tspan><tspan class="y" x="455">← cheapest that makes it</tspan></tspan></text></g>
+
+  <!-- command 2 -->
+  <text x="24" y="184"><tspan class="p">$</tspan> whoami</text>
+  <rect class="cover t2" x="38" y="168" width="470" height="22"/>
+  <g class="o4"><text x="40" y="210"><tspan class="b">Alpesh Ranjan</tspan> · payments infrastructure · AI agents · ex-Oracle</text></g>
+
+  <!-- command 3 -->
+  <text x="24" y="250"><tspan class="p">$</tspan> cat status</text>
+  <rect class="cover t3" x="38" y="234" width="470" height="22"/>
+  <g class="o5"><text x="40" y="276">Open to <tspan class="w">Forward Deployed Engineer</tspan> + <tspan class="w">Product</tspan> roles · NYC · March 2027</text></g>
+
+  <g class="o6"><text x="24" y="308"><tspan class="p">$</tspan> </text><rect class="cur" x="42" y="295" width="9" height="17" fill="#e6edf3"/></g>
+  <rect x="0.5" y="0.5" width="859" height="329" rx="10" fill="none" stroke="#30363d"/>
+</svg>
